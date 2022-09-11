@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/miguelyunis01/moviesPlus/issues"
   },
-  "homepage": "https://github.com/miguelyunis01/moviesPlus#readme"
+  "homepage": "https://github.com/miguelyunis01/moviesPlus#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  }
 }
